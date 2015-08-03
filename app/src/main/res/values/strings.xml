@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">BLE2HCP</string>
+    <string name="activity_discovery">Beacons discovery</string>
+    <string name="activity_settings">Settings</string>
+    <string name="menu_start">Start streaming</string>
+    <string name="menu_settings">Settings</string>
+    <string name="sync_button">Push data to HCP IoT Service</string>
+    <string name="save_button">Save</string>
+    <string name="settings_endpoint">endpoint</string>
+    <string name="settings_device">device ID</string>
+    <string name="settings_auth">authorization</string>
+
+</resources>
